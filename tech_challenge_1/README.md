@@ -48,7 +48,7 @@ Você pode executar as análises de duas formas principais:
 A ferramenta original de desenvolvimento foi o Google Colab. 
 1. Acesse o [Google Colab](https://colab.research.google.com/).
 2. Faça o upload do arquivo `tech1_project.ipynb`.
-3. Faça o upload da base de dados (arquivo CSV disponível neste repositório) para o ambiente do Colab.
+3. Faça o upload da base de dados (arquivo CSV disponível neste repositório: `base_de_dados_nps.csv`) para o ambiente do Colab.
 4. Execute as células sequencialmente.
 
 ### 2. Ambiente Local (Python)
